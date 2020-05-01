@@ -14,5 +14,13 @@
     "lite": "lite-server"
   },
   "author": "Shubham",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skpir4t3/TestProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skpir4t3/TestProject/issues"
+  },
+  "homepage": "https://github.com/skpir4t3/TestProject#readme"
 }
